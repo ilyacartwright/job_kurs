@@ -1,0 +1,19 @@
+*.pyc
+settings_local.py
+venv
+.venv
+venv_linux
+.venv_linux
+stat/
+# Mac
+.DS_Store
+._*
+
+
+# dev
+.vscode
+.env
+node_modules
+
+wsgi_dev.py
+wsgi_prod.py
